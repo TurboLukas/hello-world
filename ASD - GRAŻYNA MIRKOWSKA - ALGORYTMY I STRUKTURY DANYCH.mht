@@ -1,0 +1,2201 @@
+From: <Zapisane przez program Windows Internet Explorer 7>
+Subject: =?windows-1250?Q?ASD_-_GRA=AFYNA_MIRKOWSKA_-_ALGORYTMY_I_STRUKTURY_DANYCH?=
+Date: Wed, 6 May 2009 11:47:51 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0022_01C9CE40.7C73C340"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3350
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: text/css;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/top.css
+
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: black; FONT-FAMILY: =
+verdana, arial; HEIGHT: 18px; BACKGROUND-COLOR: whitesmoke; TEXT-ALIGN: =
+center
+}
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0025_01C9CE40.7C73C340"
+
+
+------=_NextPart_001_0025_01C9CE40.7C73C340
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/asd14/index14.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Frameset//EN">
+<HTML><HEAD><TITLE>ASD - GRA=AFYNA MIRKOWSKA - ALGORYTMY I STRUKTURY =
+DANYCH</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-2">
+<META content=3D"MSHTML 6.00.6000.16825" name=3DGENERATOR>
+<META content=3D"" name=3Ddescription>
+<META content=3D"" name=3Dkeywords>
+<SCRIPT language=3DJavaScript type=3Dtext/javascript>=0A=
+function EDU_SKOROWIDZ(numer, nazwa) {=0A=
+	parent.frames[0].location =3D "top" + numer + ".html";=0A=
+	parent.frames[2].location =3D "main" + numer + ".html#" + nazwa;=0A=
+	parent.frames[1].location =3D "left" + numer + ".html";=0A=
+}=0A=
+</SCRIPT>
+
+<SCRIPT language=3DJavaScript type=3Dtext/JavaScript>=0A=
+<!--=0A=
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized=0A=
+  if (init=3D=3Dtrue) with (navigator) {if =
+((appName=3D=3D"Netscape")&&(parseInt(appVersion)=3D=3D4)) {=0A=
+    document.MM_pgW=3DinnerWidth; document.MM_pgH=3DinnerHeight; =
+onresize=3DMM_reloadPage; }}=0A=
+  else if (innerWidth!=3Ddocument.MM_pgW || =
+innerHeight!=3Ddocument.MM_pgH) location.reload();=0A=
+}=0A=
+MM_reloadPage(true);=0A=
+//-->=0A=
+</SCRIPT>
+<!-- frames --></HEAD><FRAMESET border=3D0 frameSpacing=3D0 =
+rows=3D23,*,19=20
+frameBorder=3D0><FRAME name=3Dtop marginWidth=3D0 frameSpacing=3D0 =
+marginHeight=3D0=20
+src=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/top14.html" =
+frameBorder=3D0=20
+scrolling=3Dno><FRAMESET border=3D0 frameSpacing=3D0 frameBorder=3D0 =
+cols=3D25%,*><FRAME=20
+name=3Dleft marginWidth=3D0 frameSpacing=3D0 marginHeight=3D0=20
+src=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/left14.html" =
+frameBorder=3D0><FRAME=20
+name=3Dmain marginWidth=3D0 frameSpacing=3D0 marginHeight=3D0=20
+src=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_p3.html"=20
+frameBorder=3D0></FRAMESET><FRAME name=3Dbottom marginWidth=3D0 =
+frameSpacing=3D0=20
+marginHeight=3D0 src=3D"http://pjwstk.nevada.pl/ASD/wyklady/bottom.html" =
+
+frameBorder=3D0 scrolling=3Dno></FRAMESET></HTML>
+
+------=_NextPart_001_0025_01C9CE40.7C73C340
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/asd14/top14.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3Dpragma content=3Dno-cache>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-2">
+<META http-equiv=3DContent-Language content=3Dpl>
+<META content=3D"" name=3DKeywords>
+<META content=3D"" name=3DDescription><LINK=20
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/top.css" type=3Dtext/css =
+rel=3Dstylesheet>
+<META content=3D"MSHTML 6.00.6000.16825" name=3DGENERATOR></HEAD>
+<BODY leftMargin=3D0 topMargin=3D0 marginheight=3D"0" marginwidth=3D"0">
+<DIV align=3Dcenter>
+<TABLE style=3D"BORDER-BOTTOM: brown 1px solid" cellSpacing=3D0 =
+cellPadding=3D2=20
+width=3D"100%" align=3Dcenter border=3D0>
+  <TBODY>
+  <TR>
+    <TD>
+      <DIV align=3Dcenter>Wyk=B3ad XIV. PROGRAMOWANIE DYNAMICZNE. <SPAN=20
+      style=3D"FONT-SIZE: 14px; FONT-VARIANT: small-caps">(kurs=20
+    asd)</SPAN></DIV></TD></TR></TBODY></TABLE></DIV></BODY></HTML>
+
+------=_NextPart_001_0025_01C9CE40.7C73C340--
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/oznaczenia/syllabus.gif
+
+R0lGODlhEQAQAPcAAAAAADMAAGYAAJkAAMwAAP8AAAAzADMzAGYzAJkzAMwzAP8zAABmADNmAGZm
+AJlmAMxmAP9mAACZADOZAGaZAJmZAMyZAP+ZAADMADPMAGbMAJnMAMzMAP/MAAD/ADP/AGb/AJn/
+AMz/AP//AAAAMzMAM2YAM5kAM8wAM/8AMwAzMzMzM2YzM5kzM8wzM/8zMwBmMzNmM2ZmM5lmM8xm
+M/9mMwCZMzOZM2aZM5mZM8yZM/+ZMwDMMzPMM2bMM5nMM8zMM//MMwD/MzP/M2b/M5n/M8z/M///
+MwAAZjMAZmYAZpkAZswAZv8AZgAzZjMzZmYzZpkzZswzZv8zZgBmZjNmZmZmZplmZsxmZv9mZgCZ
+ZjOZZmaZZpmZZsyZZv+ZZgDMZjPMZmbMZpnMZszMZv/MZgD/ZjP/Zmb/Zpn/Zsz/Zv//ZgAAmTMA
+mWYAmZkAmcwAmf8AmQAzmTMzmWYzmZkzmcwzmf8zmQBmmTNmmWZmmZlmmcxmmf9mmQCZmTOZmWaZ
+mZmZmcyZmf+ZmQDMmTPMmWbMmZnMmczMmf/MmQD/mTP/mWb/mZn/mcz/mf//mQAAzDMAzGYAzJkA
+zMwAzP8AzAAzzDMzzGYzzJkzzMwzzP8zzABmzDNmzGZmzJlmzMxmzP9mzACZzDOZzGaZzJmZzMyZ
+zP+ZzADMzDPMzGbMzJnMzMzMzP/MzAD/zDP/zGb/zJn/zMz/zP//zAAA/zMA/2YA/5kA/8wA//8A
+/wAz/zMz/2Yz/5kz/8wz//8z/wBm/zNm/2Zm/5lm/8xm//9m/wCZ/zOZ/2aZ/5mZ/8yZ//+Z/wDM
+/zPM/2bM/5nM/8zM///M/wD//zP//2b//5n//8z//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAANcALAAAAAARABAA
+AAhcAK8JHEiwoMGBrQ4eLFDgBcMCCq9lgXgtYcUCFgm2ojiI4UCKBEFKHIRQ5EaNGa+JHETyo8iV
+LQV6/JjxpMuQBV+CHJTFIMiZNgtuJNkq4cSIEh8WiIm0qVOCAQEAOw==
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/oznaczenia/SPIS.gif
+
+R0lGODlhEQAQAPcAAAAAADMAAGYAAJkAAMwAAP8AAAAzADMzAGYzAJkzAMwzAP8zAABmADNmAGZm
+AJlmAMxmAP9mAACZADOZAGaZAJmZAMyZAP+ZAADMADPMAGbMAJnMAMzMAP/MAAD/ADP/AGb/AJn/
+AMz/AP//AAAAMzMAM2YAM5kAM8wAM/8AMwAzMzMzM2YzM5kzM8wzM/8zMwBmMzNmM2ZmM5lmM8xm
+M/9mMwCZMzOZM2aZM5mZM8yZM/+ZMwDMMzPMM2bMM5nMM8zMM//MMwD/MzP/M2b/M5n/M8z/M///
+MwAAZjMAZmYAZpkAZswAZv8AZgAzZjMzZmYzZpkzZswzZv8zZgBmZjNmZmZmZplmZsxmZv9mZgCZ
+ZjOZZmaZZpmZZsyZZv+ZZgDMZjPMZmbMZpnMZszMZv/MZgD/ZjP/Zmb/Zpn/Zsz/Zv//ZgAAmTMA
+mWYAmZkAmcwAmf8AmQAzmTMzmWYzmZkzmcwzmf8zmQBmmTNmmWZmmZlmmcxmmf9mmQCZmTOZmWaZ
+mZmZmcyZmf+ZmQDMmTPMmWbMmZnMmczMmf/MmQD/mTP/mWb/mZn/mcz/mf//mQAAzDMAzGYAzJkA
+zMwAzP8AzAAzzDMzzGYzzJkzzMwzzP8zzABmzDNmzGZmzJlmzMxmzP9mzACZzDOZzGaZzJmZzMyZ
+zP+ZzADMzDPMzGbMzJnMzMzMzP/MzAD/zDP/zGb/zJn/zMz/zP//zAAA/zMA/2YA/5kA/8wA//8A
+/wAz/zMz/2Yz/5kz/8wz//8z/wBm/zNm/2Zm/5lm/8xm//9m/wCZ/zOZ/2aZ/5mZ/8yZ//+Z/wDM
+/zPM/2bM/5nM/8zM///M/wD//zP//2b//5n//8z//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAANcALAAAAAARABAA
+AAhLAK8JHEiwoMGDCBMqvDZoUKuHDlsNQligokWLFCE+fFiA4sGOBAtkySIyywuSAkEOvMgyZUGV
+ITGG/Ciw1UuaOG9+ZClzoc+fAgMCADs=
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/clear.gif
+
+R0lGODlhCgAKAID/AMDAwAAAACH5BAEAAAAALAAAAAAKAAoAQAIIhI+py+0PYysAOw==
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/oznaczenia/SKOROWIDZ.gif
+
+R0lGODlhEQAPAPcAAAAAADMAAGYAAJkAAMwAAP8AAAAzADMzAGYzAJkzAMwzAP8zAABmADNmAGZm
+AJlmAMxmAP9mAACZADOZAGaZAJmZAMyZAP+ZAADMADPMAGbMAJnMAMzMAP/MAAD/ADP/AGb/AJn/
+AMz/AP//AAAAMzMAM2YAM5kAM8wAM/8AMwAzMzMzM2YzM5kzM8wzM/8zMwBmMzNmM2ZmM5lmM8xm
+M/9mMwCZMzOZM2aZM5mZM8yZM/+ZMwDMMzPMM2bMM5nMM8zMM//MMwD/MzP/M2b/M5n/M8z/M///
+MwAAZjMAZmYAZpkAZswAZv8AZgAzZjMzZmYzZpkzZswzZv8zZgBmZjNmZmZmZplmZsxmZv9mZgCZ
+ZjOZZmaZZpmZZsyZZv+ZZgDMZjPMZmbMZpnMZszMZv/MZgD/ZjP/Zmb/Zpn/Zsz/Zv//ZgAAmTMA
+mWYAmZkAmcwAmf8AmQAzmTMzmWYzmZkzmcwzmf8zmQBmmTNmmWZmmZlmmcxmmf9mmQCZmTOZmWaZ
+mZmZmcyZmf+ZmQDMmTPMmWbMmZnMmczMmf/MmQD/mTP/mWb/mZn/mcz/mf//mQAAzDMAzGYAzJkA
+zMwAzP8AzAAzzDMzzGYzzJkzzMwzzP8zzABmzDNmzGZmzJlmzMxmzP9mzACZzDOZzGaZzJmZzMyZ
+zP+ZzADMzDPMzGbMzJnMzMzMzP/MzAD/zDP/zGb/zJn/zMz/zP//zAAA/zMA/2YA/5kA/8wA//8A
+/wAz/zMz/2Yz/5kz/8wz//8z/wBm/zNm/2Zm/5lm/8xm//9m/wCZ/zOZ/2aZ/5mZ/8yZ//+Z/wDM
+/zPM/2bM/5nM/8zM///M/wD//zP//2b//5n//8z//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAANcALAAAAAARAA8A
+AAhFAK8JHEiwoEGBrRIeNFjgWqsCDRcKLNDq2qBrFCVijFggy0WJEAdm1BhyUEWNAgdFRCnyJEuM
+LlkWePFy4kqZN2vqlBgQADs=
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/oznaczenia/wyjscie.gif
+
+R0lGODlhDQAOAPcAAAAAADMAAGYAAJkAAMwAAP8AAAAzADMzAGYzAJkzAMwzAP8zAABmADNmAGZm
+AJlmAMxmAP9mAACZADOZAGaZAJmZAMyZAP+ZAADMADPMAGbMAJnMAMzMAP/MAAD/ADP/AGb/AJn/
+AMz/AP//AAAAMzMAM2YAM5kAM8wAM/8AMwAzMzMzM2YzM5kzM8wzM/8zMwBmMzNmM2ZmM5lmM8xm
+M/9mMwCZMzOZM2aZM5mZM8yZM/+ZMwDMMzPMM2bMM5nMM8zMM//MMwD/MzP/M2b/M5n/M8z/M///
+MwAAZjMAZmYAZpkAZswAZv8AZgAzZjMzZmYzZpkzZswzZv8zZgBmZjNmZmZmZplmZsxmZv9mZgCZ
+ZjOZZmaZZpmZZsyZZv+ZZgDMZjPMZmbMZpnMZszMZv/MZgD/ZjP/Zmb/Zpn/Zsz/Zv//ZgAAmTMA
+mWYAmZkAmcwAmf8AmQAzmTMzmWYzmZkzmcwzmf8zmQBmmTNmmWZmmZlmmcxmmf9mmQCZmTOZmWaZ
+mZmZmcyZmf+ZmQDMmTPMmWbMmZnMmczMmf/MmQD/mTP/mWb/mZn/mcz/mf//mQAAzDMAzGYAzJkA
+zMwAzP8AzAAzzDMzzGYzzJkzzMwzzP8zzABmzDNmzGZmzJlmzMxmzP9mzACZzDOZzGaZzJmZzMyZ
+zP+ZzADMzDPMzGbMzJnMzMzMzP/MzAD/zDP/zGb/zJn/zMz/zP//zAAA/zMA/2YA/5kA/8wA//8A
+/wAz/zMz/2Yz/5kz/8wz//8z/wBm/zNm/2Zm/5lm/8xm//9m/wCZ/zOZ/2aZ/5mZ/8yZ//+Z/wDM
+/zPM/2bM/5nM/8zM///M/wD//zP//2b//5n//8z//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAANcALAAAAAANAA4A
+AAgvAK8JHEiwoMGDBRcgHLhA4cIFBRwehNgQYcOGBR5GlDgx4kKBFT9eyyiypMmDAQEAOw==
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: text/css;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/left.css
+
+BODY {
+	FONT-FAMILY: verdana; BACKGROUND-COLOR: #e6f0eb
+}
+A.MENU0 {
+	FONT-SIZE: 11px; COLOR: darkslategray; LINE-HEIGHT: 12px; FONT-FAMILY: =
+verdana; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.MENU0:link {
+	FONT-SIZE: 11px; COLOR: darkslategray; LINE-HEIGHT: 12px; FONT-FAMILY: =
+verdana; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.MENU0:visited {
+	FONT-SIZE: 11px; COLOR: darkslategray; LINE-HEIGHT: 12px; FONT-FAMILY: =
+verdana; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.MENU0:hover {
+	FONT-SIZE: 11px; COLOR: black; LINE-HEIGHT: 12px; FONT-FAMILY: verdana; =
+TEXT-ALIGN: left; TEXT-DECORATION: underline
+}
+A.MENU1 {
+	FONT-SIZE: 11px; COLOR: darkslategray; LINE-HEIGHT: 12px; FONT-FAMILY: =
+verdana; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.MENU1:link {
+	FONT-SIZE: 11px; COLOR: darkslategray; LINE-HEIGHT: 12px; FONT-FAMILY: =
+verdana; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.MENU1:visited {
+	FONT-SIZE: 11px; COLOR: darkslategray; LINE-HEIGHT: 12px; FONT-FAMILY: =
+verdana; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.MENU1:hover {
+	FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: 12px; FONT-FAMILY: =
+verdana; TEXT-ALIGN: left; TEXT-DECORATION: underline
+}
+A.MENU11 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: darkslategray; =
+LINE-HEIGHT: 12px; FONT-STYLE: normal; FONT-FAMILY: verdana; TEXT-ALIGN: =
+left; TEXT-DECORATION: none
+}
+A.MENU11:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: darkslategray; =
+LINE-HEIGHT: 12px; FONT-STYLE: normal; FONT-FAMILY: verdana; TEXT-ALIGN: =
+left; TEXT-DECORATION: none
+}
+A.MENU11:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: darkslategray; =
+LINE-HEIGHT: 12px; FONT-STYLE: normal; FONT-FAMILY: verdana; TEXT-ALIGN: =
+left; TEXT-DECORATION: none
+}
+A.MENU11:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT: =
+12px; FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+.menunow {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #0000cc; LINE-HEIGHT: 9pt; =
+FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.menunow {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #0000cc; LINE-HEIGHT: 9pt; =
+FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+A.menunow:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #0000cc; LINE-HEIGHT: 9pt; =
+FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+A.menunow:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #0000cc; LINE-HEIGHT: 9pt; =
+FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+A.menunow:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #00cc00; LINE-HEIGHT: 9pt; =
+FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+.menulink {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: darkslategray; LINE-HEIGHT: =
+9pt; FONT-STYLE: normal; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.menulink {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: darkslategray; LINE-HEIGHT: =
+9pt; FONT-STYLE: normal; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.menulink:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: darkslategray; LINE-HEIGHT: =
+9pt; FONT-STYLE: normal; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.menulink:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: darkslategray; LINE-HEIGHT: =
+9pt; FONT-STYLE: normal; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.menulink:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; LINE-HEIGHT: 9pt; =
+FONT-FAMILY: verdana; TEXT-DECORATION: underline
+}
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/asd14/left14.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3Dpragma content=3Dno-cache>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-2">
+<META http-equiv=3DContent-Language content=3Dpl>
+<META content=3D"s=B3owa kluczowe" name=3DKeywords>
+<META content=3D"" name=3DDescription><LINK=20
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/left.css" type=3Dtext/css=20
+rel=3Dstylesheet>
+<META content=3D"MSHTML 6.00.6000.16825" name=3DGENERATOR></HEAD>
+<BODY bgColor=3D#e6f0eb leftMargin=3D0 topMargin=3D0 marginheight=3D"0" =
+marginwidth=3D"0">
+<TABLE cellSpacing=3D4 cellPadding=3D2 border=3D0>
+  <TBODY>
+  <TR>
+    <TD>
+      <CENTER>
+      <TABLE cellSpacing=3D2 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop align=3Dright><FONT size=3D-2><IMG =
+height=3D16=20
+            =
+src=3D"http://pjwstk.nevada.pl/ASD/wyklady/oznaczenia/syllabus.gif"=20
+            width=3D17 align=3Dright border=3D0></FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'Syllabus'; return true;" =
+title=3DSyllabus=20
+            onfocus=3Dblur(); onmouseout=3D"window.status=3D''; "=20
+            href=3D"http://pjwstk.nevada.pl/ASD/wyklady/index.html"=20
+            target=3D_top>Syllabus</A></FONT></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop align=3Dright><FONT size=3D-2><IMG =
+height=3D16=20
+            =
+src=3D"http://pjwstk.nevada.pl/ASD/wyklady/oznaczenia/SPIS.gif"=20
+            width=3D17 align=3Dright border=3D0></FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'Wyk=B3ady'; return true;" =
+title=3DWyk=B3ady=20
+            onfocus=3Dblur(); onmouseout=3D"window.status=3D''; "=20
+            href=3D"http://pjwstk.nevada.pl/ASD/wyklady/index00.html"=20
+            target=3D_top>Wyk=B3ady</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT =
+size=3D-2>I.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'I O problemach algorytmiki'; =
+return true;"=20
+            title=3D"O problemach algorytmiki" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd01/index01.html"=20
+            target=3D_top>O problemach algorytmiki</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+size=3D-2>II.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'II Wyszukiwanie'; return =
+true;"=20
+            title=3DWyszukiwanie onfocus=3Dblur(); =
+onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd02/index02.html"=20
+            target=3D_top>Wyszukiwanie </A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+          size=3D-2>III.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'III Wyszukiwanie c.d.'; =
+return true;"=20
+            title=3D"Wyszukiwanie c.d." onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd03/index03.html"=20
+            target=3D_top>Wyszukiwanie c.d.</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+size=3D-2>IV.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'IV Sortowanie'; return =
+true;"=20
+            title=3DSortowanie onfocus=3Dblur(); =
+onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd04/index04.html"=20
+            target=3D_top>Sortowanie </A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT =
+size=3D-2>V.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'V Sortowanie c.d.'; return =
+true;"=20
+            title=3D"Sortowanie c.d." onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd05/index05.html"=20
+            target=3D_top>Sortowanie c.d.</A></FONT></TD></TR>
+        <TR>
+          <TD class=3DmenuLINK vAlign=3Dtop align=3Dright><FONT=20
+size=3D-2>VI.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3DmenuLINK=20
+            onmouseover=3D"window.status=3D'VI Podstawowe struktury =
+danych'; return true;"=20
+            title=3D"Podstawowe struktury danych" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd06/index06.html"=20
+            target=3D_top>Podstawowe struktury =
+danych</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+          size=3D-2>VII.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'VII Drzewa binarnych =
+poszukiwa=F1'; return true;"=20
+            title=3D"Drzewa binarnych poszukiwa=F1" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd07/index07.html"=20
+            target=3D_top>Drzewa binarnych =
+poszukiwa=F1</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+          size=3D-2>VIII.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'VIII Drzewa wywa=BFone'; =
+return true;"=20
+            title=3D"Drzewa wuwa=BFone" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd08/index08.html"=20
+            target=3D_top>Drzewa wywa=BFone</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+size=3D-2>IX.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'IX Kopiec'; return true;" =
+title=3DKopiec=20
+            onfocus=3Dblur(); onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd09/index09.html"=20
+            target=3D_top>Kopiec</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT =
+size=3D-2>X.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'X Kolejki priorytetowe i =
+s=B3wniki '; return true;"=20
+            title=3D"Kolejki priorytetowe i s=B3owniki" =
+onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd10/index10.html"=20
+            target=3D_top>Kolejki priorytetowe i =
+s=B3owniki</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+size=3D-2>XI.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'XI Algorytmy zach=B3anne'; =
+return true;"=20
+            title=3D"Algorytmy zach=B3anne" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd11/index11.html"=20
+            target=3D_top>Algorytmy zach=B3anne</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+          size=3D-2>XII.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'XII Algorytmy na grafach'; =
+return true;"=20
+            title=3D"Algorytmy na grafach" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd12/index12.html"=20
+            target=3D_top>Algorytmy na grafach</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+          size=3D-2>XIII.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'XIII Algorytmy w geometrii'; =
+return true;"=20
+            title=3D"Algorytmy w geometrii" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd13/index13.html"=20
+            target=3D_top>Algorytmy w geometrii</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenunow vAlign=3Dtop align=3Dright><FONT=20
+size=3D-2>XIV.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenunow=20
+            onmouseover=3D"window.status=3D'XIV Programowanie =
+dynamiczne'; return true;"=20
+            title=3D"Programowanie dynamiczne" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/index14.html"=20
+            target=3D_top>Programowanie dynamiczne</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright></TD>
+          <TD vAlign=3Dtop colSpan=3D2><A class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'Streszczenie'; return true;" =
+
+            title=3DStreszczenie onfocus=3Dblur(); =
+onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_p0.html"=20
+            target=3Dmain>Streszczenie</A></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop align=3Dright><IMG height=3D10=20
+            src=3D"http://pjwstk.nevada.pl/ASD/wyklady/clear.gif" =
+width=3D10=20
+            align=3Dright border=3D0></TD>
+          <TD vAlign=3Dtop colSpan=3D2><A class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'1.  Na czym to polega?'; =
+return true;"=20
+            title=3D"1. Na czym to polega?" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_p1.html"=20
+            target=3Dmain>1. Na czym to polega?</A></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop align=3Dright><IMG height=3D10=20
+            src=3D"http://pjwstk.nevada.pl/ASD/wyklady/clear.gif" =
+width=3D10=20
+            align=3Dright border=3D0></TD>
+          <TD vAlign=3Dtop colSpan=3D2><A class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'2. Mno=BFenie =B3a=F1cucha =
+macierzy'; return true;"=20
+            title=3D"2. Mno=BFenie =B3a=F1cucha macierzy" =
+onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_p2.html"=20
+            target=3Dmain>2. Mno=BFenie =B3a=F1cucha =
+macierzy</A></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop align=3Dright><IMG height=3D10=20
+            src=3D"http://pjwstk.nevada.pl/ASD/wyklady/clear.gif" =
+width=3D10=20
+            align=3Dright border=3D0></TD>
+          <TD vAlign=3Dtop colSpan=3D2><A class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'3. Najd=B3u=BFszy wsp=F3lny =
+podci=B1g'; return true;"=20
+            title=3D"3. Najd=B3u=BFszy wsp=F3lny podci=B1g" =
+onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_p3.html"=20
+            target=3Dmain>3. Najd=B3u=BFszy wsp=F3lny =
+podci=B1g</A></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop align=3Dright><IMG height=3D10=20
+            src=3D"http://pjwstk.nevada.pl/ASD/wyklady/clear.gif" =
+width=3D10=20
+            align=3Dright border=3D0></TD>
+          <TD vAlign=3Dtop colSpan=3D2><A class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'=C6wiczenia'; return true;"=20
+            title=3D=C6wiczenia onfocus=3Dblur(); =
+onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_cw.html"=20
+            target=3Dmain>=C6wiczenia</A></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop align=3Dright><IMG height=3D10=20
+            src=3D"http://pjwstk.nevada.pl/ASD/wyklady/clear.gif" =
+width=3D10=20
+            align=3Dright border=3D0></TD>
+          <TD vAlign=3Dtop><A class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'Prezentcja'; return true;"=20
+            title=3DPrezentacja onfocus=3Dblur(); =
+onmouseout=3D"window.status=3D'';"=20
+            href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/asd14.pot" =
+
+            target=3Dmain>Prezentacja </A></TD></TR>
+        <TR>
+          <TD class=3Dmenulink vAlign=3Dtop align=3Dright><FONT=20
+size=3D-2>XV.</FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'XV Problemy trudne'; return =
+true;"=20
+            title=3D"Problemy trudne" onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; "=20
+            =
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd15/index15.html"=20
+            target=3D_top>Problemy trudne</A></FONT></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop align=3Dright><FONT size=3D-2><IMG =
+height=3D15=20
+            =
+src=3D"http://pjwstk.nevada.pl/ASD/wyklady/oznaczenia/SKOROWIDZ.gif"=20
+            width=3D17 align=3Dright border=3D0></FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'Skorowidz'; return true;"=20
+            title=3DSkorowidz onfocus=3Dblur(); =
+onmouseout=3D"window.status=3D''; "=20
+            href=3D"http://pjwstk.nevada.pl/ASD/wyklady/skorowidz.html"=20
+            target=3Dmain>Skorowidz</A></FONT></TD></TR>
+        <TR>
+          <TD class=3Dmenunow vAlign=3Dtop><FONT size=3D-2><IMG =
+height=3D14=20
+            =
+src=3D"http://pjwstk.nevada.pl/ASD/wyklady/oznaczenia/wyjscie.gif"=20
+            width=3D13 align=3Dright border=3D0></FONT></TD>
+          <TD vAlign=3Dtop colSpan=3D2><FONT size=3D-2><A =
+class=3Dmenulink=20
+            onmouseover=3D"window.status=3D'Wyj=B6cie'; return true;" =
+onfocus=3Dblur();=20
+            onmouseout=3D"window.status=3D''; " =
+href=3D"javascript:window.close();"=20
+            =
+target=3D_top>Wyj=B6cie<BR></A></FONT></TD></TR></TBODY></TABLE></CENTER>=
+</TD></TR></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/asd14/Rysunki/Rysunek14_4.gif
+
+R0lGODlhkAH6APcAAB8aFyEaF10fF0QsJ0UwLF0yLVNbO0hEQlJOTFRQTlZSUGRhX2ZkX3JvbX1o
+ZbInGLswIdwrGd49LaZDOOFMPZBNRYJTTbRRRrdkWoF+fNlOQONZS+NbTeRbTuRcTuRdT+NVR+Rf
+UeReUNNpXuRgUuVhVOViVeVjVuVkVuVnWuVmWeZoW+ZpXeZrX+ZsX8FvZ9J7cuduYuduYedxZedy
+ZudzZ+hzaOh1aeh0aOh2auh4bOh5bul6b+l8cel+c+l/dOl7cJevaqO3fuqBduqCeOqFeuuGe+uG
+fOuIfuCGfI+Mi52bmaupqLm3tteXkOuLgeyNg+yPheyQhu2Sie2Ui+2VjO2Xju6Yj+6aku6Zke6d
+lO+fl++ele+hme+jm++jnPClnfCmntawrOCqpPCooPGqo/GrpPGtpvGtpvGvqPKxq/KwqfKyrPK0
+rvK2r/O3sfO4svO6tPO7tvS8t/S+uPS/ufS9uK3Aiq7Ai6/BjK/CjbDCjrHDj7LDkLPFk7HDkLbH
+l7XGlrTFlLfImbjImbnJmrnJnLvLnrvKnbzLn77Nob/No73Mob/OpMDPpcHPp8LQqMPRqsTSq8bT
+rcfUr9XBv8jVscrWs8nWssvXtczXts3Yt8/au87ZucrSu9HbvdLcv/TAuvXCvfXDvsfGxcbFw9Pd
+wNXew9TewdXfxNXU1PXFwPXHwvbJxPbKxvXIw/fOyvbNyffTz/fQzPfT0PjW0vjV0vjY1fjZ1vja
+1/nb2Pnd2vnd2tfgxdjhx9nhyN3lztriyt/m0d/m0uDn0+Lp1uLo1eTq2eXr2ufs3ePq2Ojt3vng
+3fri3/rh3uPj4unu4Ovv4vrj4frl4/rm5Pvp5/vq6Pvr6vvs6/zu7fzt7Ozw5O7y5+3x5uvw4+/z
+6PL17fP17vT27/D06vzw7/Hx8fX38fTz8/zy8f308/319f319P329v339vb48/n69vj59f349/j4
++Pr7+fr6+v75+P76+v76+fv8+vz9+/39/P78/P79/f7+/v////7+/SwAAAAAkAH6AAAI/gATCBxI
+sKDBgwgTKlzIsKHDhxAjSpxIsaLFixgzatxI0Z8/eiBDihxJsqTJkyhTqlzJsqXLlzBjypxJs6bN
+mzhzypSnQIE8j0CDCh1KtKjRo0iTKl3KtKnTp1CjSp1KtarVq1ih8vSZtavXr2DDih1LtqzZsFt/
+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
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: text/css;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/main.css
+
+BODY {
+	FONT-SIZE: 13px; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, arial; =
+BACKGROUND-COLOR: whitesmoke; TEXT-ALIGN: justify
+}
+P {
+	FONT-SIZE: 13px; COLOR: black; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, =
+arial, Helvetica; TEXT-ALIGN: justify
+}
+P.tyt {
+	FONT-SIZE: 13px; COLOR: black; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, =
+arial, Helvetica; TEXT-ALIGN: left
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: black; LINE-HEIGHT: 19px; =
+FONT-FAMILY: Trebuchen MS, Helvetica; TEXT-ALIGN: left
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: black; LINE-HEIGHT: 15px; =
+FONT-FAMILY: Trebuchen MS, Helvetica; TEXT-ALIGN: left
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: black; LINE-HEIGHT: 17px; =
+FONT-FAMILY: Trebuchen MS, Helvetica; TEXT-ALIGN: left
+}
+TD {
+	FONT-SIZE: 13px; COLOR: black; LINE-HEIGHT: 16px; FONT-FAMILY: verdana, =
+arial
+}
+DIV.TYTA {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: brown; FONT-FAMILY: verdana, =
+arial; TEXT-ALIGN: left
+}
+DIV.TYTB {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: brown; FONT-FAMILY: verdana, =
+arial; TEXT-ALIGN: left
+}
+DIV.TYT2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: brown; FONT-FAMILY: verdana, =
+arial; TEXT-ALIGN: center
+}
+DIV.SKOR {
+	FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: blue; FONT-FAMILY: =
+verdana, arial; BACKGROUND-COLOR: white; TEXT-ALIGN: center
+}
+DIV.TYT {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: blue; FONT-FAMILY: verdana, =
+arial; BACKGROUND-COLOR: honeydew; TEXT-ALIGN: center
+}
+LI {
+	FONT-SIZE: 13px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: =
+verdana, arial; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+OL {
+	FONT-SIZE: 13px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: =
+verdana, arial; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+UL {
+	FONT-SIZE: 13px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: =
+verdana, arial; TEXT-ALIGN: justify; TEXT-DECORATION: none
+}
+A {
+	FONT-SIZE: 12px; COLOR: red; LINE-HEIGHT: 17px; TEXT-DECORATION: none
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: red; LINE-HEIGHT: 17px; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: red; LINE-HEIGHT: 17px; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: orange; LINE-HEIGHT: 17px; TEXT-DECORATION: =
+underline
+}
+TD.nawig {
+	FONT-SIZE: 13px; COLOR: black; FONT-FAMILY: verdana, arial; =
+BACKGROUND-COLOR: #e6f0eb; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+A.NAWIGACJA {
+	FONT-SIZE: 10px; COLOR: gray; FONT-FAMILY: verdana, arial; =
+BACKGROUND-COLOR: #e6f0eb; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.NAWIGACJA:link {
+	FONT-SIZE: 10px; COLOR: gray; FONT-FAMILY: verdana, arial; =
+BACKGROUND-COLOR: #e6f0eb; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.NAWIGACJA:visited {
+	FONT-SIZE: 10px; COLOR: gray; FONT-FAMILY: verdana, arial; =
+BACKGROUND-COLOR: #e6f0eb; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.NAWIGACJA:hover {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: verdana, arial; =
+BACKGROUND-COLOR: #e6f0eb; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.SKOR {
+	FONT-SIZE: 13px; CURSOR: default; COLOR: blue; LINE-HEIGHT: 14px; =
+FONT-FAMILY: VERDANA; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.SKOR:link {
+	FONT-SIZE: 13px; CURSOR: default; COLOR: blue; LINE-HEIGHT: 14px; =
+FONT-FAMILY: VERDANA; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.SKOR:visited {
+	FONT-SIZE: 13px; CURSOR: default; COLOR: blue; LINE-HEIGHT: 14px; =
+FONT-FAMILY: VERDANA; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+A.SKOR:hover {
+	FONT-SIZE: 13px; CURSOR: default; COLOR: black; LINE-HEIGHT: 14px; =
+FONT-FAMILY: VERDANA; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+DIV.GLOS {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: brown; FONT-FAMILY: VERDANA; =
+BACKGROUND-COLOR: lightyellow; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+DIV.LITERKA {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; COLOR: blue; FONT-FAMILY: VERDANA; =
+BACKGROUND-COLOR: lightgreen; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+A.GLOSSARY {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: white; FONT-FAMILY: VERDANA; =
+BACKGROUND-COLOR: brown; TEXT-DECORATION: none
+}
+A.GLOSSARY:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: white; FONT-FAMILY: VERDANA; =
+BACKGROUND-COLOR: brown; TEXT-DECORATION: none
+}
+A.GLOSSARY:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: white; FONT-FAMILY: VERDANA; =
+BACKGROUND-COLOR: brown; TEXT-DECORATION: none
+}
+A.GLOSSARY:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #3a473e; FONT-FAMILY: =
+VERDANA; BACKGROUND-COLOR: white; TEXT-DECORATION: none
+}
+A.SKOROWIDZ {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: white; FONT-FAMILY: VERDANA; =
+BACKGROUND-COLOR: blue; TEXT-DECORATION: none
+}
+A.SKOROWIDZ:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: white; FONT-FAMILY: VERDANA; =
+BACKGROUND-COLOR: blue; TEXT-DECORATION: none
+}
+A.SKOROWIDZ:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: white; FONT-FAMILY: VERDANA; =
+BACKGROUND-COLOR: blue; TEXT-DECORATION: none
+}
+A.SKOROWIDZ:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #3a473e; FONT-FAMILY: =
+VERDANA; BACKGROUND-COLOR: white; TEXT-DECORATION: none
+}
+.tytul {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000000; LINE-HEIGHT: 17px; =
+FONT-FAMILY: VERDANA
+}
+TD.tytulpunktu {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 17px; =
+FONT-FAMILY: VERDANA
+}
+.tytulpunktu {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 17px; =
+FONT-FAMILY: VERDANA
+}
+A.tytulpunktu {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 17px; =
+FONT-FAMILY: VERDANA
+}
+A.tytulpunktu:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 17px; =
+FONT-FAMILY: VERDANA
+}
+A.tytulpunktu:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: red; LINE-HEIGHT: 17px; =
+FONT-FAMILY: VERDANA; TEXT-DECORATION: underline
+}
+INPUT.GUZIK {
+	FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: Verdana, Sans-serif; =
+BACKGROUND-COLOR: ivory; TEXT-ALIGN: center
+}
+A.ODP {
+	FONT-SIZE: 12px; COLOR: red; BACKGROUND-COLOR: ivory; TEXT-DECORATION: =
+underline
+}
+A.ODP:link {
+	FONT-SIZE: 12px; COLOR: red; BACKGROUND-COLOR: ivory; TEXT-DECORATION: =
+underline
+}
+A.ODP:visited {
+	FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+A.ODP:hover {
+	FONT-SIZE: 12px; COLOR: blue; BACKGROUND-COLOR: ivory; TEXT-DECORATION: =
+underline
+}
+DIV.pomoc {
+	BORDER-RIGHT: white 1px solid; PADDING-RIGHT: 0em; BORDER-TOP: white =
+1px solid; PADDING-LEFT: 0em; PADDING-BOTTOM: 0em; BORDER-LEFT: white =
+1px solid; WIDTH: 100%; COLOR: black; PADDING-TOP: 0em; BORDER-BOTTOM: =
+white 1px solid; FONT-FAMILY: verdana; TEXT-ALIGN: left
+}
+PRE {
+	BORDER-RIGHT: #800000 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: =
+#800000 1px solid; DISPLAY: block; PADDING-LEFT: 10px; PADDING-BOTTOM: =
+10px; BORDER-LEFT: #800000 1px solid; COLOR: black; PADDING-TOP: 10px; =
+BORDER-BOTTOM: #800000 1px solid; FONT-FAMILY: COURIER; WHITE-SPACE: =
+pre; BACKGROUND-COLOR: #fffff7; TEXT-ALIGN: left
+}
+DIV.notec {
+	BORDER-RIGHT: #800000 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: =
+#800000 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; =
+BORDER-LEFT: #800000 1px solid; WIDTH: 75%; COLOR: black; PADDING-TOP: =
+10px; BORDER-BOTTOM: #800000 1px solid; FONT-FAMILY: verdana; =
+BACKGROUND-COLOR: #fffff7; TEXT-ALIGN: center
+}
+DIV.notel {
+	BORDER-RIGHT: #800000 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#800000 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 80%; FLOAT: right; =
+PADDING-BOTTOM: 5px; BORDER-LEFT: #800000 1px solid; WIDTH: 25%; COLOR: =
+black; PADDING-TOP: 5px; BORDER-BOTTOM: #800000 1px solid; FONT-FAMILY: =
+verdana; BACKGROUND-COLOR: #fffff7; TEXT-ALIGN: left
+}
+DIV.noter {
+	BORDER-RIGHT: #800000 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: =
+#800000 1px solid; PADDING-LEFT: 5px; FONT-SIZE: 80%; FLOAT: left; =
+PADDING-BOTTOM: 5px; BORDER-LEFT: #800000 1px solid; WIDTH: 25%; COLOR: =
+black; PADDING-TOP: 5px; BORDER-BOTTOM: #800000 1px solid; FONT-FAMILY: =
+verdana; BACKGROUND-COLOR: #fffff7; TEXT-ALIGN: left
+}
+DIV.wlas {
+	BORDER-RIGHT: plum 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: plum 1px =
+solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: plum 1px =
+solid; WIDTH: 99%; COLOR: black; PADDING-TOP: 1em; BORDER-BOTTOM: plum =
+1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: mistyrose; =
+TEXT-ALIGN: left
+}
+DIV.def1 {
+	BORDER-RIGHT: red 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: red 1px =
+solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: red 1px =
+solid; WIDTH: 95%; COLOR: black; PADDING-TOP: 1em; BORDER-BOTTOM: red =
+1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: floralwhite; =
+TEXT-ALIGN: left
+}
+DIV.def {
+	BORDER-RIGHT: red 2px solid; PADDING-RIGHT: 1em; BORDER-TOP: red 2px =
+solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: red 2px =
+solid; WIDTH: 95%; COLOR: black; PADDING-TOP: 1em; BORDER-BOTTOM: red =
+2px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: floralwhite; =
+TEXT-ALIGN: left
+}
+DIV.lemat {
+	BORDER-RIGHT: blue 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: blue 1px =
+solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: blue 1px =
+solid; WIDTH: 95%; COLOR: black; PADDING-TOP: 1em; BORDER-BOTTOM: blue =
+1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: aliceblue; =
+TEXT-ALIGN: left
+}
+DIV.twier {
+	BORDER-RIGHT: green 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: green =
+1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: green =
+1px solid; WIDTH: 95%; COLOR: black; PADDING-TOP: 1em; BORDER-BOTTOM: =
+green 1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: mintcream; =
+TEXT-ALIGN: left
+}
+DIV.przyk {
+	BORDER-RIGHT: red 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: red 1px =
+solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: red 1px =
+solid; WIDTH: 90%; COLOR: black; PADDING-TOP: 1em; BORDER-BOTTOM: red =
+1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: mistyrose; =
+TEXT-ALIGN: left
+}
+DIV.wzor {
+	BORDER-RIGHT: gray 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: gray 1px =
+solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: gray 1px =
+solid; WIDTH: 90%; COLOR: black; PADDING-TOP: 1em; BORDER-BOTTOM: gray =
+1px solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: whitesmoke; =
+TEXT-ALIGN: left
+}
+DIV.important {
+	BORDER-RIGHT: #cc0000 5px solid; PADDING-RIGHT: 10px; BORDER-TOP: =
+#cc0000 5px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; =
+BORDER-LEFT: #cc0000 5px solid; WIDTH: 90%; COLOR: #cc0000; PADDING-TOP: =
+10px; BORDER-BOTTOM: #cc0000 5px solid; FONT-FAMILY: verdana; =
+BACKGROUND-COLOR: #ffffcc; TEXT-ALIGN: left
+}
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/skrypty.js
+
+var ff;=0A=
+=0A=
+function napis(f, x) {=0A=
+        ff=3Df;=0A=
+          f.elements[0].blur(); =0A=
+          f.elements[0].value =3D x;=0A=
+          setTimeout("stare()", 2000); =0A=
+   }=0A=
+=0A=
+function stare() {=0A=
+        ff.elements[0].value =3D"Zobacz odpowied=BC";=0A=
+}=0A=
+=0A=
+function okno(ff) {=0A=
+        window.open(ff, '', =
+'toolbar=3Dno,menubar=3Dno,scrollbars=3Dno,resizable=3Dno,status=3Dno,loc=
+ation=3Dno,directories=3Dno,top=3D20,left=3D20,fullscreen=3Dno,height=3D2=
+00,width=3D250');=0A=
+}=0A=
+=0A=
+function okno1(ff) {=0A=
+        window.open(ff, '', =
+'toolbar=3Dno,menubar=3Dno,scrollbars=3Dno,resizable=3Dno,status=3Dno,loc=
+ation=3Dno,directories=3Dno,top=3D20,left=3D20,fullscreen=3Dno,height=3D2=
+50,width=3D350');=0A=
+}=0A=
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_p3.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3Dpragma content=3Dno-cache>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-2">
+<META http-equiv=3DContent-Language content=3Dpl>
+<META content=3D"s=B3owa kluczowe" name=3DKeywords>
+<META content=3D"" name=3DDescription><LINK=20
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/main.css" type=3Dtext/css=20
+rel=3Dstylesheet><LINK href=3D"../style.html" type=3Dtext/css =
+rel=3Dstylesheet>
+<SCRIPT language=3DJavaScript =
+src=3D"http://pjwstk.nevada.pl/ASD/wyklady/skrypty.js"=20
+type=3Dtext/javascript></SCRIPT>
+
+<META content=3D"MSHTML 6.00.6000.16825" name=3DGENERATOR></HEAD>
+<BODY bgColor=3Dwhitesmoke leftMargin=3D8 topMargin=3D8 =
+marginheight=3D"8"=20
+marginwidth=3D"8"><!--body bgcolor=3D"whitesmoke" leftmargin=3D"0" =
+topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0"--><!--table =
+width=3D"100%" cellspacing=3D"4" cellpadding=3D"4" =
+border=3D"0"--><!--tr--><!--td-->
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+  <TBODY>
+  <TR>
+    <TD align=3Dleft><A class=3DNAWIGACJA=20
+      href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_p2.html"=20
+      target=3Dmain>&laquo;&nbsp;poprzedni punkt</A>&nbsp;</TD>
+    <TD align=3Dright>&nbsp;<A class=3DNAWIGACJA=20
+      href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_cw.html"=20
+      target=3Dmain>nast=EApny =
+punkt&nbsp;&raquo;</A></TD></TR></TBODY></TABLE><BR clear=3Dall><A=20
+name=3D"EDU.wyklad.punkt 3"></A><BR clear=3Dall>
+<DIV class=3Dtytulpunktu>3. Najd=B3u=BFszy wsp=F3lny podci=B1g</DIV>
+<P><B>Problem NWP</B><BR></P>
+<P>Dane s=B1 dwa ci=B1gi X i Y, X =3D (x<SUB><FONT=20
+face=3DVerdana>1</FONT></SUB>,...,x<SUB><FONT =
+face=3DVerdana>m</FONT></SUB>), Y =3D=20
+(y<SUB><FONT face=3DVerdana>1</FONT></SUB>,..., y<SUB><FONT=20
+face=3DVerdana>n</FONT></SUB>).&nbsp; Znale=BC=E6 ci=B1g znak=F3w Z =3D =
+(z<SUB><FONT=20
+face=3DVerdana>1</FONT></SUB>,...,z<SUB><FONT =
+face=3DVerdana>k</FONT></SUB>) taki,=20
+=BFe Z jest najd=B3u=BFszym podci=B1giem zar=F3wno ci=B1gu X jak i =
+ci=B1gu Y, tzn. Z jest=20
+najd=B3u=BFszym ci=B1giem spe=B3niaj=B1cym warunki (1), (2):</P>
+<BLOCKQUOTE>
+  <P>(1) istniej=B1 i<SUB><FONT face=3DVerdana>1</FONT></SUB>,..., =
+i<SUB><FONT=20
+  face=3DVerdana>k</FONT></SUB> takie, =BFe&nbsp; z<SUB><FONT=20
+  face=3DVerdana>1</FONT></SUB>=3D x<SUB><FONT =
+face=3DVerdana>i1</FONT></SUB>, ...,=20
+  z<SUB><FONT face=3DVerdana>k</FONT></SUB>=3D x<SUB><FONT=20
+  face=3DVerdana>ik</FONT></SUB>, oraz&nbsp; 1 <FONT face=3DSymbol><SPAN =
+
+  lang=3Den>&pound;</SPAN> </FONT>i<SUB><FONT =
+face=3DVerdana>1</FONT></SUB><FONT=20
+  face=3DSymbol><SPAN lang=3Den>&pound;</SPAN> </FONT>... <SPAN =
+lang=3Den><FONT=20
+  face=3DSymbol>&pound;</FONT></SPAN> i<SUB><FONT =
+face=3DVerdana>k</FONT></SUB><FONT=20
+  face=3DSymbol><SPAN lang=3Den>&pound;</SPAN>&nbsp; </FONT>m,</P>
+  <P>(2) istniej=B1 j<SUB><FONT face=3DVerdana>1</FONT></SUB>,..., =
+j<SUB><FONT=20
+  face=3DVerdana>k</FONT></SUB> takie, =BFe&nbsp; z<SUB><FONT=20
+  face=3DVerdana>1</FONT></SUB>=3D y<SUB><FONT =
+face=3DVerdana>j1</FONT></SUB>,=20
+  ...,z<SUB><FONT face=3DVerdana>k</FONT></SUB>=3D y<SUB><FONT=20
+  face=3DVerdana>jk</FONT></SUB> oraz&nbsp; 1 <FONT face=3DSymbol><SPAN=20
+  lang=3Den>&pound;</SPAN> </FONT>j<SUB><FONT =
+face=3DVerdana>1</FONT></SUB><FONT=20
+  face=3DSymbol><SPAN lang=3Den>&pound;</SPAN> </FONT>...<FONT =
+face=3DSymbol> <SPAN=20
+  lang=3Den>&pound;</SPAN></FONT> j<SUB><FONT =
+face=3DVerdana>k</FONT></SUB> <FONT=20
+  face=3DSymbol><SPAN lang=3Den>&pound;</SPAN> =
+</FONT>n.</P></BLOCKQUOTE>
+<P>Najd=B3u=BFszy wsp=F3lny podci=B1g ci=B1g=F3w X i Y oznaczamy =
+przez&nbsp; nwp(X,Y). </P>
+<P><B>Przyk=B3ad 3.1</B></P>
+<P>Je=BFeli X =3D bracbdeweczsagdj=B3aaopt i Y =3D =
+dgadbreschrtadk=B3ewo, to nwp(X,Y) =3D=20
+abecad=B3o. <FONT face=3DWingdings size=3D3>J</FONT></P>
+<P>Rozwi=B1zanie tego problemu mog=B3oby wygl=B1da=E6 nast=EApuj=B1co: =
+</P>
+<BLOCKQUOTE>
+  <UL>
+    <LI>1. Wygenerowa=E6 wszystkie mo=BFliwe podci=B1gi ci=B1gu X.=20
+    <LI>2. Dla ka=BFdego z nich sprawdzi=E6, czy jest podci=B1giem =
+ci=B1gu Y.=20
+    <LI>3. Zapami=EAta=E6 najd=B3u=BFszy z takich ci=B1g=F3w. =
+</LI></UL></BLOCKQUOTE>
+<P>Taki algorytm rzeczywi=B6cie rozwi=B1zuje problem, ale niestety nie =
+mo=BFe zosta=E6=20
+zastosowany w praktyce. Jego z=B3o=BFono=B6=E6 jest wyk=B3adnicza. =
+Je=B6li X ma m element=F3w,=20
+to zbi=F3r wszystkich jego poci=B1g=F3w ma O(2<SUP><FONT =
+face=3DVerdana>m</FONT></SUP>)=20
+element=F3w. Nawet dla ma=B3ych m by=B3by to zbyt kosztowny =
+algorytm.</P>
+<P>Przyjmijmy nast=EApuj=B1ce oznaczenie dla ci=B1gu X =3D ( x<SUB><FONT =
+
+face=3DVerdana>1</FONT></SUB>,...,x<SUB><FONT =
+face=3DVerdana>m</FONT></SUB>),&nbsp;=20
+X<SUB><FONT face=3DVerdana>i</FONT></SUB> niech oznacza i pierwszych =
+znak=F3w ci=B1gu=20
+X tzn. i-ty prefiks X. Dla i=3D0,&nbsp; X<SUB><FONT =
+face=3DVerdana>0</FONT></SUB>=20
+jest ci=B1giem pustym dla i=3Dm, X<SUB><FONT =
+face=3DVerdana>m</FONT></SUB> jest po=20
+prostu ci=B1giem X.</P>
+<P></P>
+<DIV class=3Dlemat>
+<P>Lemat 3.1 Niech Z=3D (z<SUB><FONT =
+face=3DVerdana>1</FONT></SUB>,...,z<SUB><FONT=20
+face=3DVerdana>k</FONT></SUB>) b=EAdzie najd=B3u=BFszym wsp=F3lnym =
+podci=B1giem ci=B1gu X =3D=20
+(x<SUB><FONT face=3DVerdana>1</FONT></SUB>,...,x<SUB><FONT=20
+face=3DVerdana>m</FONT></SUB>), Y =3D (y<SUB><FONT =
+face=3DVerdana>1</FONT></SUB>,...,=20
+y<SUB><FONT face=3DVerdana>n</FONT></SUB>). </P>
+<P>(1) Je=BFeli&nbsp; x<SUB><FONT face=3DVerdana>m</FONT></SUB> =3D =
+y<SUB><FONT=20
+face=3DVerdana>n</FONT></SUB>, to z<SUB><FONT =
+face=3DVerdana>k</FONT></SUB> =3D=20
+x<SUB><FONT face=3DVerdana>m</FONT></SUB> =3D y<SUB><FONT=20
+face=3DVerdana>n</FONT></SUB> oraz Z<SUB><FONT =
+face=3DVerdana>k-1</FONT></SUB> =3D=20
+nwp(X <SUB><FONT face=3DVerdana>m-1</FONT></SUB>, Y<SUB><FONT=20
+face=3DVerdana>n-1</FONT></SUB>).</P>
+<P>(2) Je=BFeli&nbsp; x<SUB><FONT face=3DVerdana>m</FONT></SUB> <SPAN =
+lang=3Den><FONT=20
+face=3DSymbol>&sup1;</FONT></SPAN> y<SUB><FONT =
+face=3DVerdana>n</FONT></SUB>, to </P>
+<BLOCKQUOTE>
+  <P>Z =3D nwp(X<SUB><FONT face=3DVerdana>m-1</FONT></SUB>, Y), gdy =
+z<SUB><FONT=20
+  face=3DVerdana>k</FONT></SUB> <FONT face=3DSymbol><SPAN =
+lang=3Den>&sup1;</SPAN>=20
+  </FONT>x<SUB><FONT =
+face=3DVerdana>m</FONT></SUB>&nbsp;&nbsp;&nbsp;&nbsp; oraz=20
+  </P>
+  <P>Z =3D nwp(X, Y<SUB><FONT face=3DVerdana>n-1</FONT></SUB>), gdy =
+z<SUB><FONT=20
+  face=3DVerdana>k</FONT></SUB> <FONT face=3DSymbol><SPAN =
+lang=3Den>&sup1;</SPAN>=20
+  </FONT>y<SUB><FONT =
+face=3DVerdana>n</FONT></SUB>.</P></BLOCKQUOTE></DIV>
+<P></P>
+<P>Wydaje si=EA, =BFe przedstawiony tu lemat daje przepis na znajdowanie =
+
+najd=B3u=BFszego ci=B1gu wsp=F3lnego: je=B6li ostatnie znaki ci=B1g=F3w =
+s=B1 identyczne, to jest=20
+to ostatni element najd=B3u=BFszego wsp=F3lnego ci=B1gu. Je=B6li =
+ostatnie znaki w ci=B1gach=20
+X<SUB><FONT face=3DVerdana>m</FONT></SUB> i Y<SUB><FONT=20
+face=3DVerdana>n</FONT></SUB> nie s=B1 jednakowe, to albo ostatni =
+element ci=B1gu=20
+X<SUB><FONT face=3DVerdana>m</FONT></SUB> nie wyst=EApuje w =
+najd=B3u=BFszym wsp=F3lnym=20
+podci=B1gu, albo ostatni element ci=B1gu Y<SUB><FONT =
+face=3DVerdana>n</FONT></SUB> nie=20
+wyst=EApuje w najd=B3u=BFszym wsp=F3lnym podci=B1gu. Prowadzi to do =
+dw=F3ch mniejszych=20
+problem=F3w: znalezienia najd=B3u=BFszego wsp=F3lnego ci=B1gu =
+X<SUB><FONT=20
+face=3DVerdana>m-1</FONT></SUB>, Y<SUB><FONT =
+face=3DVerdana>n</FONT></SUB> i=20
+najd=B3u=BFszego wsp=F3lnego ci=B1gu X<SUB><FONT =
+face=3DVerdana>m</FONT></SUB>,=20
+Y<SUB><FONT face=3DVerdana>n-1</FONT></SUB>. D=B3u=BFszy z tych =
+ci=B1g=F3w jest=20
+najd=B3u=BFszym wsp=F3lnym podci=B1giem ci=B1g=F3w X i Y.</P>
+<P><B>Pytanie 4:</B> Z ilu znak=F3w sk=B3ada si=EA najd=B3u=BFszy =
+wsp=F3lny podci=B1g=20
+ci=B1g=F3w&nbsp; </P>
+<P style=3D"TEXT-ALIGN: center">"najd=B3u=BFszy_wsp=F3lny_podci=B1g" i=20
+"programowanie_dynamiczne"&nbsp; <BR></P>
+<FORM><INPUT class=3DGUZIK onclick=3D"napis(this.form,'Z pi=EAciu, np. =
+&quot;aw_dc&quot; .');" type=3Dbutton value=3D"Zobacz odpowied=BC" =
+name=3DKlik0>=20
+</FORM><BR>
+<P><B>Algorytm rekurencyjny</B></P>
+<P></P>
+<DIV class=3Ddef style=3D"WIDTH: 512px">
+<TABLE rules=3Dnone width=3D476 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD width=3D341 colSpan=3D2 height=3D12>nwp(X,Y)<B>{</B></TD></TR>
+  <TR>
+    <TD width=3D59 height=3D12></TD>
+    <TD width=3D282 height=3D12><STRONG>&nbsp;i</STRONG><B>f</B> =
+(x<SUB><FONT=20
+      face=3DVerdana>m</FONT></SUB> =3D y<SUB><FONT =
+face=3DVerdana>n</FONT></SUB>)=20
+      <B>then</B></TD></TR>
+  <TR>
+    <TD width=3D59 height=3D12></TD>
+    <TD width=3D282=20
+      =
+height=3D12><STRONG>&nbsp;</STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Z =
+:=3D=20
+      nwp(X<SUB><FONT face=3DVerdana>m-1</FONT></SUB>, Y<SUB><FONT=20
+      face=3DVerdana>n-1</FONT></SUB>) o&nbsp; x<SUB><FONT=20
+      face=3DVerdana>m</FONT></SUB>;</TD></TR>
+  <TR>
+    <TD width=3D59 height=3D12></TD>
+    <TD width=3D282=20
+      =
+height=3D12><STRONG>else&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</STRONG>&nbsp;</TD=
+></TR>
+  <TR>
+    <TD width=3D59 height=3D12></TD>
+    <TD width=3D282 height=3D12>&nbsp;<STRONG> =
+</STRONG>&nbsp;&nbsp;&nbsp;Z1 :=3D=20
+      nwp(X<SUB><FONT face=3DVerdana>m-1</FONT></SUB>,Y) ;</TD></TR>
+  <TR>
+    <TD width=3D59 height=3D12></TD>
+    <TD width=3D282 =
+height=3D12><STRONG>&nbsp;</STRONG>&nbsp;&nbsp;&nbsp;&nbsp;Z2=20
+      :=3D nwp(&nbsp;X, Y<SUB><FONT=20
+      face=3DVerdana>n-1</FONT></SUB>);&nbsp;&nbsp;&nbsp; </TD></TR>
+  <TR>
+    <TD width=3D59 height=3D12></TD>
+    <TD width=3D282 height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Z :=3D =
+d=B3u=BFszy z=20
+      ci=B1g=F3w Z1, Z2&nbsp;;&nbsp;&nbsp;&nbsp; </TD></TR>
+  <TR>
+    <TD width=3D59 height=3D12></TD>
+    <TD width=3D282=20
+      =
+height=3D12><B>&nbsp;fi;</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+    </TD></TR>
+  <TR>
+    <TD width=3D59 height=3D12><STRONG>}</STRONG></TD>
+    <TD width=3D282=20
+      =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+    </TD></TR></TBODY></TABLE></DIV>
+<P>Niech T(k) oznacza koszt pesymistyczny tego algorytmu, gdzie k jest =
+sum=B1=20
+d=B3ugo=B6ci ci=B1g=F3w X i Y. Mamy </P>
+<P style=3D"TEXT-ALIGN: center">T(1) =3D 0, T(2) =3D 1, T (k) =3D 2 =
+*T(k-1).</P>
+<P>Rozwi=B1zaniem tego prostego r=F3wnania rekurencyjnego jest funkcja =
+T(n) =3D=20
+2<SUP><FONT face=3DVerdana>n-2</FONT></SUP>. Wynika st=B1d, =BFe =
+nale=BFy szuka=E6 innego=20
+rozwi=B1zania problemu: algorytm rekurencyjny jest zbyt kosztowny.</P>
+<P>To by=B3a z=B3a nowina. Dobra nowina jest taka, =BFe problem NWP ma =
+w=B3asno=B6=E6=20
+optymalnej podstruktury: przecie=BF optymalne rozwi=B1zanie znajdziemy, =
+albo jako=20
+wynik optymalnego rozwi=B1zania problemu&nbsp; nwp(X<SUB><FONT=20
+face=3DVerdana>m-1</FONT></SUB>, Y<SUB><FONT =
+face=3DVerdana>n-1</FONT></SUB>), albo=20
+jako lepsze z optymalnych rozwi=B1za=F1 podproblem=F3w nwp(X<SUB><FONT=20
+face=3DVerdana>m-1</FONT></SUB>,Y), nwp(&nbsp;X, Y<SUB><FONT=20
+face=3DVerdana>n-1</FONT></SUB>). To sugeruje, =BFe by=E6 mo=BFe metoda =
+programowania=20
+dynamicznego da dobry algorytm. Gdyby=B6my jeszcze wiedzieli, kt=F3ry z =
+podproblem=F3w=20
+nale=BFy rozwi=B1za=E6, to zadanie sta=B3oby si=EA proste. Oczywi=B6cie =
+chcemy rozwi=B1za=E6 ten=20
+podproblem, kt=F3rego rozwi=B1zanie daje d=B3u=BFszy ci=B1g.</P>
+<P>Wyliczmy najpierw d=B3ugo=B6=E6 najd=B3u=BFszego wsp=F3lnego =
+podci=B1gu post=EApuj=B1c tak, jak=20
+w algorytmie rekurencyjnym. Oznaczmy przez dl(A,B) d=B3ugo=B6=E6 =
+najd=B3u=BFszego=20
+wsp=F3lnego podci=B1gu danych ci=B1g=F3w A i B. Mamy</P>
+<P style=3D"TEXT-ALIGN: center">dl(X,Y) =3D dl(X<SUB><FONT=20
+face=3DVerdana>m-1</FONT></SUB>, Y<SUB><FONT =
+face=3DVerdana>n-1</FONT></SUB>) +1,=20
+gdy&nbsp; x<SUB><FONT face=3DVerdana>m</FONT></SUB> =3D y<SUB><FONT=20
+face=3DVerdana>n</FONT></SUB>,</P>
+<P style=3D"TEXT-ALIGN: center">dl(X,Y) =3D max (dl(X<SUB><FONT=20
+face=3DVerdana>m-1</FONT></SUB>,Y),(&nbsp;X, Y<SUB><FONT=20
+face=3DVerdana>n-1</FONT></SUB>)),&nbsp; x<SUB><FONT =
+face=3DVerdana>m</FONT></SUB>=20
+<SPAN lang=3Den><FONT face=3DSymbol>&sup1;</FONT></SPAN> y<SUB><FONT=20
+face=3DVerdana>n</FONT></SUB>.</P>
+<P><B>Pytanie 5: </B>&nbsp;Jaki jest koszt rekurencyjnego algorytmu =
+obliczania=20
+d=B3ugo=B6ci najd=B3u=BFszego wsp=F3lnego ci=B1gu danych dw=F3ch =
+ci=B1g=F3w?</P>
+<FORM><INPUT class=3DGUZIK onclick=3D"napis(this.form,'Wyk=B3adniczy');" =
+type=3Dbutton value=3D"Zobacz odpowied=BC" name=3DKlik0>=20
+</FORM>&nbsp;
+<P>Na rysunku 14.4 przedstawiono fragment drzewa rekurencyjnych =
+wywo=B3a=F1 przy=20
+obliczaniu funkcji dl. W w=EAz=B3ach drzewa umieszczone s=B1 parametry =
+wywo=B3a=F1. Na=20
+przyk=B3ad, wierzcho=B3ek (5,6) odpowiadaj=B1cy za wywo=B3anie funkcji =
+dla ci=B1g=F3w=20
+X<SUB><FONT face=3DVerdana>5</FONT></SUB> i Y<SUB><FONT=20
+face=3DVerdana>6</FONT></SUB> wymaga albo wyliczenia&nbsp; =
+dl(X<SUB><FONT=20
+face=3DVerdana>4</FONT></SUB>,Y<SUB><FONT =
+face=3DVerdana>5</FONT></SUB>), albo=20
+dl(X<SUB><FONT face=3DVerdana>4</FONT></SUB>,Y<SUB><FONT=20
+face=3DVerdana>6</FONT></SUB>) i dl(X<SUB><FONT=20
+face=3DVerdana>5</FONT></SUB>,Y<SUB><FONT =
+face=3DVerdana>5</FONT></SUB>). Zauwa=BFmy,=20
+=BFe niekt=F3re podproblemy, kt=F3re musimy rozwa=BFa=E6, powtarzaj=B1 =
+si=EA wielokrotnie.=20
+Zatem zapiszmy uzyskane wcze=B6niej wyniki w tablicy i zamiast =
+wywo=B3ania=20
+rekurencyjnego skorzystajmy z nich.<BR></P>
+<TABLE id=3DAutoNumber2 style=3D"BORDER-COLLAPSE: collapse" =
+borderColor=3D#111111=20
+cellSpacing=3D0 cellPadding=3D0 width=3D"60%" border=3D0>
+  <TBODY>
+  <TR>
+    <TD width=3D"100%"><IMG height=3D250=20
+      =
+src=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/Rysunki/Rysunek14_4.gif"=
+=20
+      width=3D400 border=3D0></TD></TR></TBODY></TABLE>
+<P>&nbsp;</P>
+<P>Niech d b=EAdzie tablic=B1 o wymiarach n <FONT face=3DSymbol><SPAN =
+lang=3Den>=B4</SPAN>=20
+</FONT>m, w kt=F3rej zapisywa=E6 b=EAdziemy warto=B6ci funkcji dl, =
+d(i,j)=3D=20
+dl(X<SUB><FONT face=3DVerdana>i</FONT></SUB>, Y<SUB><FONT=20
+face=3DVerdana>j</FONT></SUB>). W jakiej kolejno=B6ci mamy wylicza=E6 =
+wielko=B6ci=20
+d(i,j), tak by odpowiednie elementy tablicy mia=B3y ju=BF policzone =
+warto=B6ci w=20
+chwili, gdy chcemy z nich skorzysta=E6? Do wyliczenia d(i,j) potrzebne =
+s=B1 nam=20
+pozycje (i-1,j-1) oraz pozycje w g=F3r=EA i na lewo od (i,j). Wystarczy =
+zatem=20
+wype=B3nia=E6 tablic=EA d wierszami.</P>
+<P><B>Przyk=B3ad 3.2</B></P>
+<P>Rozwa=BFmy ci=B1gi X =3D"barakuda"&nbsp; i Y=3D"abrakadabra". W =
+tabeli na rysunku=20
+14.5 przedstawiono warto=B6ci funkcji dl(X,Y). Symbole <FONT =
+face=3DSymbol><SPAN=20
+lang=3Den>&not;</SPAN></FONT>, |, \&nbsp; pokazuj=B1 jak obliczyli=B6my =
+wynik. Na przyk=B3ad=20
+liczba 3 na pozycji (4, 4) oznacza, =BFe najd=B3u=BFszy wsp=F3lny =
+podci=B1g ci=B1g=F3w BARA i=20
+ABRA sk=B3ada si=EA z 3 liter, natomiast znak \ oznacza, =BFe aby to =
+wyliczy=E6=20
+musieli=B6my zna=E6 rozwi=B1zanie zadania "po przek=B1tnej", czyli =
+d=B3ugo=B6=E6 najd=B3u=BFszego=20
+wsp=F3lnego ci=B1gu "BRA" i "ABR". Liczba 4 na pozycji (5,6) oznacza, =
+=BFe nwp(BARAK,=20
+ABRAKA) =3D 4. Wyliczyli=B6my to bior=B1c maksimum z dw=F3ch =
+rozwi=B1za=F1 nwp(BARAK,ABRAK)=20
+oraz nwp(BARA,ABRAKA). Strza=B3ka w lewo na pozycji (5,6) pokazuje, =BFe =
+maksimum=20
+znajdowa=B3o si=EA na pozycji s=B1siedniej w lewo.<FONT face=3DWingdings =
+
+size=3D3>J</FONT></P>
+<P>&nbsp;</P>
+<TABLE id=3DAutoNumber1 style=3D"BORDER-COLLAPSE: collapse" =
+borderColor=3D#111111=20
+cellSpacing=3D0 cellPadding=3D0 width=3D"70%" border=3D0>
+  <TBODY>
+  <TR>
+    <TD width=3D"100%">
+      <TABLE id=3DAutoNumber3 style=3D"BORDER-COLLAPSE: collapse"=20
+      borderColor=3D#111111 cellSpacing=3D0 cellPadding=3D0 =
+width=3D"100%" border=3D1>
+        <TBODY>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle =
+width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle =
+width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>A</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>B</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>R</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>A</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>K</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>A</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>D</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>A</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>B</TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#ffccff>R</TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#ffccff>A</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5f5f5>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5f5f5>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#c0c0c0>0</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5f5f5>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5f5f5>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>B</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>1</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>A</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>1 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>2 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>2 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>2 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa>2 \</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>R</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>1 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>2 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>2 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa>3 \</TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>3 </TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>A</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>1 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>2 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>3 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>3 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>3 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>3 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>3 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>3 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>3 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa>4 \</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>K</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>1 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>2 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>3 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>4 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>U</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>1 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>2 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>3 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>4 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>D</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>1 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>2 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>3 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>4 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>4 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>5 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>5 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>5 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#ffccff><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>5 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>5 </TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#ffccff>A</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#c0c0c0>0</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>1 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>1 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>2 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>3 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>4 |</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>5 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>5 </TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa>6 \</TD>
+          <TD align=3Dmiddle width=3D"7%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>6 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#f5fffa><FONT =
+face=3DSymbol><SPAN=20
+            lang=3Den>&not;</SPAN></FONT>6 </TD>
+          <TD align=3Dmiddle width=3D"8%" bgColor=3D#ffccff>6 \</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 align=3Dmiddle width=3D"8%"=20
+          bgColor=3D#f5fffa>&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"42%" colSpan=3D6>
+            <P align=3Dcenter>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rysunek =
+14.5</P></TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD></TR>
+        <TR>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"7%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5 width=3D"8%">&nbsp;</TD>
+          <TD borderColor=3D#f5f5f5=20
+  =
+width=3D"8%">&nbsp;</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<P>W algorytmie obliczania d=B3ugo=B6ci NWP u=BFywamy dw=F3ch tablic: =
+tablicy d&nbsp; o=20
+wymiarach (|X|<FONT face=3DSymbol>+1)<SPAN =
+lang=3Den>=B4</SPAN>(</FONT>|Y|+1) i=20
+tablicy b o wymiarach (|X|<FONT face=3DSymbol><SPAN =
+lang=3Den>=B4</SPAN></FONT>|Y|).=20
+Tablica d s=B3u=BFy do zapami=EAtania d=B3ugo=B6ci najd=B3u=BFszego =
+wsp=F3lnego podci=B1gu, a w=20
+tablicy b na pozycji (i,j) zapami=EAtamy zadanie, kt=F3re trzeba =
+rzeczywi=B6cie=20
+rozwi=B1za=E6, aby uzyska=E6&nbsp; optymaln=B1 warto=B6=E6 d(i,j). =
+Wiersz o numerze 0 i=20
+kolumna o numerze 0&nbsp; w tablicy d, maj=B1 charakter pomocniczy - =
+pozwalaj=B1=20
+upro=B6ci=E6 algorytm. Tablica b pos=B3u=BFy nam p=F3=BCniej do =
+odczytania ostatecznego=20
+rozwi=B1zania.</P>
+<P></P>
+<DIV class=3Ddef style=3D"WIDTH: 681px; HEIGHT: 367px">
+<TABLE height=3D178 rules=3Dnone width=3D649 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD width=3D514 colSpan=3D2 height=3D12>dlNWP(X,Y)<B>{</B></TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 height=3D12>m :=3D |X|; n :=3D |Y|;</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 height=3D12><B>for</B>&nbsp; i :=3D1 <B>to</B> m =
+<B>do</B>=20
+      d(i,0) :=3D 0=20
+      =
+<B>od</B>;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;=20
+      // inicjalizacja</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 height=3D12><B>for</B>&nbsp; j :=3D1 <B>to</B> n =
+<B>do</B>=20
+      d(0,j) :=3D 0 <B>od</B>;</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 height=3D12><B>for</B>&nbsp; i :=3D1 <B>to</B> m =
+<B>do</B>=20
+      =
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;//=20
+      wype=B3niamy obie tablice wierszami</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 height=3D12><B>for</B>&nbsp; j :=3D1 <B>to</B> n =
+<B>do</B>=20
+      <STRONG>&nbsp;&nbsp;&nbsp;</STRONG>&nbsp;</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 height=3D12>&nbsp;<STRONG>&nbsp;&nbsp;&nbsp;&nbsp; =
+if=20
+      </STRONG>(X[i] =3DY[i])<STRONG> then =
+</STRONG>&nbsp;&nbsp;</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488=20
+      =
+height=3D12><STRONG>&nbsp;</STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;=20
+      d(i,j) :=3D d(i-1,j-1) +1;=20
+      b(i,j):=3D"\";&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 height=3D12>&nbsp;&nbsp;&nbsp;=20
+      <B>else</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 =
+height=3D12><B>&nbsp;</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      <B>&nbsp;&nbsp;&nbsp;&nbsp; if</B> (d(i-1,j) <FONT =
+face=3DSymbol><SPAN=20
+      lang=3Den>&sup3;</SPAN> </FONT>d(i,j-1)) =
+<B>then</B>&nbsp;&nbsp;&nbsp;&nbsp;=20
+  </TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488=20
+      =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;=20
+      d(i,j) :=3D d(i-1,j); b(i,j) :=3D "|";</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488=20
+      =
+height=3D12>&nbsp;<B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;=20
+      else</B>&nbsp;</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488=20
+      =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;=20
+      d(i,j) :=3D d(i,j-1); b(i,j) :=3D "<FONT face=3DSymbol><SPAN=20
+      lang=3Den>&not;</SPAN></FONT>";</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      <B>&nbsp;&nbsp;&nbsp; if</B></TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 height=3D12><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+if</B></TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D488 height=3D12><B>od</B></TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12><STRONG>}</STRONG></TD>
+    <TD width=3D488=20
+      =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+    </TD></TR></TBODY></TABLE></DIV>
+<P>Koszt algorytmu jest oczywi=B6cie wielomianowy: wykonujemy rz=EAdu =
+O(n*m)=20
+operacji arytmetycznych, gdzie m jest d=B3ugo=B6ci=B1 ci=B1gu X, a n =
+d=B3ugo=B6ci=B1 ci=B1gu=20
+Y.</P>
+<P>Znaki "|", "\" oraz "<FONT face=3DSymbol><SPAN =
+lang=3Den>&not;</SPAN></FONT>" koduj=B1=20
+pozycj=EA podproblemu, kt=F3ry trzeba rozwi=B1za=E6, aby w danej chwili =
+znale=BC=E6=20
+optymalne rozwi=B1zanie:</P>
+<BLOCKQUOTE>
+  <P>&nbsp;b(i,j) =3D "|" oznacza, =BFe podproblem, kt=F3ry =
+pos=B3u=BFy=B3 nam do=20
+  znalezienia optymalnej d=B3ugo=B6ci najd=B3u=BFszego wsp=F3lnego =
+ci=B1gu odpowiada pozycji=20
+  "w g=F3r=EA", tzn. (i-1,j),</P>
+  <P>b(i,j) =3D "\" oznacza, =BFe podproblem, kt=F3ry pos=B3u=BFy=B3 do =
+znalezienia=20
+  optymalnej d=B3ugo=B6ci najd=B3u=BFszego wsp=F3lnego ci=B1gu odpowiada =
+pozycji "po=20
+  przek=B1tnej", tzn. (i-1,j-1),</P>
+  <P>b(i,j) =3D "<FONT face=3DSymbol><SPAN =
+lang=3Den>&not;</SPAN></FONT>" oznacza, =BFe=20
+  podproblem, kt=F3ry pos=B3u=BFy=B3 do znalezienia optymalnej =
+d=B3ugo=B6ci najd=B3u=BFszego=20
+  wsp=F3lnego ci=B1gu odpowiada pozycji "w lewo", tzn. =
+(i,j-1).</P></BLOCKQUOTE>
+<P>Korzystaj=B1c z tablicy b mo=BFemy wypisa=E6 rozwi=B1zanie, =
+najd=B3u=BFszy wsp=F3lny=20
+podci=B1g danych ci=B1g=F3w. Wystarczy w tym celu rozpocz=B1=E6 =
+przegl=B1danie tablicy b od=20
+pozycji (m,n), gdzie m jest d=B3ugo=B6ci=B1 ci=B1gu X, a n =
+d=B3ugo=B6ci=B1 ci=B1gu Y, i porusza=E6=20
+si=EA zgodnie ze znakami |,\, <FONT face=3DSymbol><SPAN =
+lang=3Den>&not;</SPAN>.</FONT>=20
+Wypisujemy wsp=F3lny znak tylko wtedy, gdy trafimy na \.&nbsp; Na =
+rysunku 14.5=20
+zaznaczono =B6cie=BFk=EA, kt=F3r=B1 trzeba przej=B6=E6 aby odczyta=E6 =
+rozwi=B1zanie, kt=F3rym, w tym=20
+przypadku, jest s=B3owo " ARAKDA ". Algorytm wypisywania =
+najd=B3u=BFszego wsp=F3lnego=20
+podci=B1gu jest przedstawiony w rekurencyjnej procedurze =
+<I>drukuj.</I></P>
+<P></P>
+<DIV class=3Ddef style=3D"WIDTH: 512px">
+<TABLE rules=3Dnone width=3D476 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD width=3D341 colSpan=3D2 =
+height=3D12>drukuj(i,j)<B>{</B></TD></TR>
+  <TR>
+    <TD width=3D59 height=3D12></TD>
+    <TD width=3D282 height=3D12><STRONG>&nbsp;i</STRONG><B>f</B> (i=3D0 =
+lub j =3D0)=20
+      <B>then return fi;</B></TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453 height=3D12><STRONG>&nbsp;if </STRONG>(b(i,j) =3D =
+"\")<STRONG>=20
+      then </STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;// po=20
+    przek=B1tenej</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453=20
+      =
+height=3D12><STRONG>&nbsp;</STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;=20
+      drukuj(i-1, j-1);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453 =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      write (X[i])</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453 =
+height=3D12><B>else</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+  </TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453 =
+height=3D12><B>&nbsp;</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      <B>if</B> (b(i,j) =3D"|") <B>then</B>&nbsp;&nbsp;&nbsp;&nbsp; // w =
+
+g=F3r=EA</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453=20
+      =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;=20
+      drukuj(i-1,j)</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453=20
+      =
+height=3D12>&nbsp;<B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;=20
+      =
+else</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      // w lewo</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453=20
+      =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;=20
+      drukuj(i,j-1)</TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453 =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+      <B>&nbsp;&nbsp;&nbsp; if</B></TD></TR>
+  <TR>
+    <TD width=3D26 height=3D12></TD>
+    <TD width=3D453 height=3D12><B>if</B></TD></TR>
+  <TR>
+    <TD width=3D59 height=3D12><STRONG>}</STRONG></TD>
+    <TD width=3D282=20
+      =
+height=3D12>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+    </TD></TR></TBODY></TABLE></DIV>
+<P>Koszt zwi=B1zany z wykonaniem procedury drukuj dla parametr=F3w n, m =
+wynosi=20
+O(n+m). Rzeczywi=B6cie, w ka=BFdym rekurencyjnym wywo=B3aniu algorytmu =
+co najmniej=20
+jedna z warto=B6ci albo i, albo j jest zmniejszana, a po osi=B1gni=EAciu =
+zera przez=20
+dowoln=B1 z nich, algorytm ko=F1czy obliczenie.</P>
+<P><B>Wniosek</B> Koszt algorytmu znalezienia najd=B3u=BFszego =
+wsp=F3lnego podci=B1gu=20
+ci=B1g=F3w X, Y o d=B3ugo=B6ci odpowiednio m i n wynosi O(n*m). </P>
+<P><B>Pytanie 6:&nbsp; </B>W jakiej kolejno=B6ci zostan=B1 wypisane =
+elementy=20
+najd=B3u=BFszego wsp=F3lnego ci=B1gu, je=B6li korzystamy z procedury =
+drukuj? <BR></P>
+<FORM><INPUT class=3DGUZIK onclick=3D"napis(this.form,'W kolejno=B6ci =
+ich wyst=EApowania w danych ci=B1gach.');" type=3Dbutton value=3D"Zobacz =
+odpowied=BC" name=3DKlik0>=20
+</FORM>
+<P><BR clear=3Dall>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+  <TBODY>
+  <TR>
+    <TD align=3Dleft><A class=3DNAWIGACJA=20
+      href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_p2.html"=20
+      target=3Dmain>&laquo;&nbsp;poprzedni punkt</A>&nbsp;</TD>
+    <TD align=3Dright>&nbsp;<A class=3DNAWIGACJA=20
+      href=3D"http://pjwstk.nevada.pl/ASD/wyklady/asd14/main14_cw.html"=20
+      target=3Dmain>nast=EApny =
+punkt&nbsp;&raquo;</A></TD></TR></TBODY></TABLE><!--/td--><!--/tr--><!--/=
+table--></P></BODY></HTML>
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: text/css;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: 7bit
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/bottom.css
+
+A {
+	FONT-SIZE: 12px; COLOR: gray; TEXT-DECORATION: none
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: gray; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: gray; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: black; TEXT-DECORATION: underline
+}
+TD {
+	HEIGHT: 18px; BACKGROUND-COLOR: whitesmoke; TEXT-ALIGN: center
+}
+
+------=_NextPart_000_0022_01C9CE40.7C73C340
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://pjwstk.nevada.pl/ASD/wyklady/bottom.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE></TITLE>
+<META http-equiv=3Dpragma content=3Dno-cache>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-2">
+<META http-equiv=3DContent-Language content=3Dpl>
+<META content=3D"" name=3DKeywords>
+<META content=3D"" name=3DDescription><LINK=20
+href=3D"http://pjwstk.nevada.pl/ASD/wyklady/bottom.css" type=3Dtext/css=20
+rel=3Dstylesheet>
+<META content=3D"MSHTML 6.00.6000.16825" name=3DGENERATOR></HEAD>
+<BODY bgColor=3D#f0f0f0 leftMargin=3D0 topMargin=3D0 marginheight=3D"0" =
+marginwidth=3D"0">
+<DIV align=3Dcenter>
+<TABLE style=3D"BORDER-TOP: brown 1px solid" cellSpacing=3D0 =
+cellPadding=3D0=20
+width=3D"100%" align=3Dcenter border=3D0>
+  <TBODY>
+  <TR>
+    <TD align=3Dmiddle height=3D18><A=20
+      href=3D"mailto:studiainternetowe@pjwstk.edu.pl">pjwstk &copy;=20
+  2004</A></TD></TR></TBODY></TABLE></DIV></BODY></HTML>
+
+------=_NextPart_000_0022_01C9CE40.7C73C340--
